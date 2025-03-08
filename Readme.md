@@ -40,8 +40,8 @@ pip install pandas matplotlib seaborn
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/LuckyGarg12/Car-Features-and-MSRP-EDA
+cd Car-Features-and-MSRP-EDA
 ```
 
 Open the Jupyter Notebook:
